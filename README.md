@@ -222,6 +222,34 @@ Exchange availability depends on the API implementation and configuration used b
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](Screenshots/Dashboard.png)
+
+### Markets
+
+![Trading](Screenshots/Markets.png)
+
+### Ai Signals
+
+![Portfolio](Screenshots/Ai-Signals.png)
+
+### Exchanges
+
+![Trading](Screenshots/Exchanges.png)
+
+### Risk Control
+
+![Portfolio](Screenshots/Risk-Control.png)
+
+### Settings
+
+![Portfolio](Screenshots/Settings.png)
+
+---
+
 # ⚙️ Technical Architecture
 
 The application uses a client/server architecture.
