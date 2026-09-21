@@ -230,23 +230,23 @@ Exchange availability depends on the API implementation and configuration used b
 
 ### Markets
 
-![Trading](Screenshots/Markets.png)
+![Markets](Screenshots/Markets.png)
 
 ### Ai Signals
 
-![Portfolio](Screenshots/Ai-Signals.png)
+![Ai Signals](Screenshots/Ai-Signals.png)
 
 ### Exchanges
 
-![Trading](Screenshots/Exchanges.png)
+![Exchanges](Screenshots/Exchanges.png)
 
 ### Risk Control
 
-![Portfolio](Screenshots/Risk-Control.png)
+![Risk Control](Screenshots/Risk-Control.png)
 
 ### Settings
 
-![Portfolio](Screenshots/Settings.png)
+![Settings](Screenshots/Settings.png)
 
 ---
 
