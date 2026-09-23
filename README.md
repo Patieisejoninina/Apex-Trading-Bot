@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20DEMO-blue?style=for-the-badge" alt="Live Demo">
   </a>
   &nbsp;
-  <a href="/ApexCrypto.exe">
+  <a href="/Apex-Crypto.exe">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-WINDOWS%20EXE-2ea44c?style=for-the-badge" alt="Download Windows EXE">
   </a>
 </p>
